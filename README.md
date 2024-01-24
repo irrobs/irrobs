@@ -6,7 +6,7 @@ Desenvolvedor Front-end
 
 Sou desenvolvedor de software, com experiência de atuação como freelancer. Iniciei na área no início de 2023, e me considero um estusiasta de tecnologia, aprendendo mais dia após dia. Possuo foco em desenvolvimento com JavaScript, TypeScript, React, Sass, entre outras tecnologias que utilizo para criar aplicações web. Me considero determinado e persistente ao aprender algo novo e aprimorar o que já conheço, além de me adaptar a qualquer mudança,para estar sempre pronto para superar qualquer desafio. Se eu tivesse que me definir em 3 palavras, seriam: determinado, ágil e esforçado!
 
-* 🌍  E moro em São Carlos, São Paulo
+* 🌍  Moro em São Carlos, São Paulo
 * 🖥️  Veja meu portfolio em [Meu site](http://matheusescobar.netlify.app/)
 * ✉️  Você pode entrar em contato comigo por aqui [matheus.escobar90@gmail.com](mailto:matheus.escobar90@gmail.com)
 * 🚀  Estou atualmente trabalhando em [My Movie List](http://mymovielistproj.netlify.app/)
